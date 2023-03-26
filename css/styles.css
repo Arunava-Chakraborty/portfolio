@@ -1,0 +1,131 @@
+body {
+  background-color: #C9EEFF;
+  font-family: 'Sacramento', cursive;
+  font-size: 25px;
+  text-align: center;
+  color:#40514E;
+}
+
+a{
+  margin: 40px 20px;
+  text-decoration: none;
+  color: #E8D2A6;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+h1{
+  color: #19A7CE;
+  font-size: 5.625 rem;
+  font-family: "Segoe Script";
+  margin: 50px auto 0 auto;
+  font-weight:lighter;
+}
+
+h2 {
+  font-size: 2 rem;
+  font-weight: normal;
+}
+
+hr{
+  border: dotted 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50 auto 50 auto;
+}
+
+.first-container {
+  margin-bottom: 5px;
+}
+
+.middle-container{
+  margin-top:100px;
+  margin-bottom: 85px;
+}
+
+.bottom-container{
+  padding: 50px 0 30px 0;
+  background-color: #19A7CE;
+}
+
+.btn {
+  background: #1490e3;
+  background-image: -webkit-linear-gradient(top, #1490e3, #283b47);
+  background-image: -moz-linear-gradient(top, #1490e3, #283b47);
+  background-image: -ms-linear-gradient(top, #1490e3, #283b47);
+  background-image: -o-linear-gradient(top, #1490e3, #283b47);
+  background-image: linear-gradient(to bottom, #1490e3, #283b47);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #6dbfb7;
+  background-image: -webkit-linear-gradient(top, #6dbfb7, #75a7c9);
+  background-image: -moz-linear-gradient(top, #6dbfb7, #75a7c9);
+  background-image: -ms-linear-gradient(top, #6dbfb7, #75a7c9);
+  background-image: -o-linear-gradient(top, #6dbfb7, #75a7c9);
+  background-image: linear-gradient(to bottom, #6dbfb7, #75a7c9);
+  text-decoration: none;
+}
+
+.background{
+  margin-bottom: 60px;
+}
+
+
+.contact-me{
+  margin: 100 auto 100 auto;
+}
+
+.codeimage{
+  width: 40%;
+  float: left;
+  margin-right: 10%;
+  margin-bottom: 15%;
+}
+
+.gameimage{
+  width: 40%;
+  float: right;
+  margin:auto;
+}
+
+.Lastthing{
+  color: #EAF6F6;
+  font-size: 0.80rem;
+  padding: 10px;
+}
+
+.skill-row{
+  margin: 90px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.moun{
+
+  align-self: center;
+}
+
+.profile{
+  margin-bottom: 70px;
+}
+
+.profileimage{
+  width: 25%;
+}
+
+.skills{
+  margin-top: 80px;
+}
